@@ -1,7 +1,9 @@
 
 
-# PL/B Starter Project
+# Adjacency PL/B Libraries (ADJLIB)
+Adjacency PLB Libraries (ADJLIB) © 2024 by Adjacency Global Solutions LLC is licensed under Creative Commons Attribution-ShareAlike 4.0 International 
 
+## ALL BELOW CLONED FROM plb-starter PROJECT
 The purpose of this repository is to create an empty project with a directory structure and utility scripts to aid in developing structured PL/B programs compatible with GitHub or other version control systems.
 
 ## Directory Structure
